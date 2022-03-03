@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <OutputType>Exe</OutputType>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <TargetFramework>net6.0</TargetFramework>
+    <PackageVersion>0.0.1-beta</PackageVersion>
+    <Title>Update Windows Time</Title>
+    <Description>Update Windows Time based on a NTP server</Description>
+  </PropertyGroup>
+
+</Project>
